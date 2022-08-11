@@ -143,9 +143,9 @@ link = "contact"
 # google map
 [params.map]
 enable = true
-gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-map_latitude = "51.5223477"
-map_longitude = "-0.1622023"
+gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyD2vPYYzrF2d_EAqc_5oA7G4mnpggy78AQ"
+map_latitude = "52.375686"
+map_longitude = "4.926027"
 map_marker = "images/marker.png"
 
 ######################### Clients logo ################################
@@ -175,24 +175,24 @@ logo = "images/about/key-vision1.png"
 
 #################### social icon ######################################
 [[params.social]]
-name = "Facebook"
-icon = "ti-facebook"
-link = "#"
+name = "LinkedIn"
+icon = "ti-linkedin"
+link = "https://www.linkedin.com/company/lovelace-engineering"
 
 [[params.social]]
 name = "Twitter"
 icon = "ti-twitter-alt"
-link = "#"
+link = "https://twitter.com/LovelaceEng"
 
-[[params.social]]
-name = "Vimeo"
-icon = "ti-vimeo-alt"
-link = "#"
+#[[params.social]]
+#name = "Vimeo"
+#icon = "ti-vimeo-alt"
+#link = "#"
 
 [[params.social]]
 name = "Github"
 icon = "ti-github"
-link = "#"
+link = "https://github.com/LovelaceEngineering"
 
 ########################### English language ###########################
 [Languages.en]
@@ -202,15 +202,4 @@ contentDir = "content/english"
 weight = 1
 home = "Home"
 # copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
-
-
-########################### French language ############################
-[Languages.fr]
-languageName = "Fr"
-languageCode = "fr-fr"
-contentDir = "content/french"
-weight = 2
-home = "Accueil"
-# copyright
-copyright = "Copyright &copy; 2020 a hugo theme by [themefisher](https://themefisher.com)"
+copyright = "Copyright &copy; 2022 [Lovelace Engineering](https://lovelace.engineering)"

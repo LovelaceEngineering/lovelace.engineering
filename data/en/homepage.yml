@@ -1,7 +1,7 @@
 ################################## Banner #################################
 banner:
   enable : true
-  subtitle : "Prepare for new future"
+  subtitle : "Prepare for cloud native"
   title : "Helping customers be their best in the moments that matter."
 
   # solid button
@@ -19,7 +19,7 @@ banner:
 ######################## Banner call to action ############################
 banner_cta:
   enable : true
-  title : "Crafting visually stunning memorable experiences for web."
+  title : "We are Cloud Native experts."
   content : "Magni perspiciatis sequi, molestias dignissimos numquam placeat eveniet nobis rerum eos, facilis minus, est illo adipisci soluta dolores quisquam, praesentium ab corrupti!"
   button:
     enable : true
@@ -29,7 +29,7 @@ banner_cta:
 ########################## feature ########################################
 feature:
   enable : true
-  title : "We provide best solution to client with their business problem"
+  title : "We provide the best solution to clients solving their business problems"
   feature_item:
     # feature item loop
     - title : "Modern & Responsive design"
